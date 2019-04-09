@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+<widget id="com.infitt.vaakkiyakoonam" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>VAAKKIYAKOONAM</name>
     <description>
-     Mobile App Training
+     THIS APP WILL HELP TO CREATE SENTENCES.
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
